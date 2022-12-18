@@ -1,0 +1,179 @@
+{
+	"rankings": [
+		{
+			"title": "Furi - Bosses Fun",
+			"state": "m7LQQGyh4SSGSQsNZnBPZmJnncTFwMjCMYmNmRMA"
+		},
+		{
+			"title": "Furi - Bosses No-Hit Difficulty",
+			"state": "m7LQQGah4SSGSQsNZjFNYuPkmsTNOomDmYWRgZ0XAA"
+		}
+	],
+	"items": [
+		{
+			"name": "The Chain",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Chain",
+				"img": {
+					"src": "assets/the-chain.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Strap",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Strap",
+				"img": {
+					"src": "assets/the-strap.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Line",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Line",
+				"img": {
+					"src": "assets/the-line.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Scale",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Scale",
+				"img": {
+					"src": "assets/the-scale.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Hand",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Hand",
+				"img": {
+					"src": "assets/the-hand.png",
+					"width": 256,
+					"height": 143
+				}
+			}
+		},
+		{
+			"name": "The Song",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Song",
+				"img": {
+					"src": "assets/the-song.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Burst",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Burst",
+				"img": {
+					"src": "assets/the-burst.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Edge",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Edge",
+				"img": {
+					"src": "assets/the-edge.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Beat",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Beat",
+				"img": {
+					"src": "assets/the-beat.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Star",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Star",
+				"img": {
+					"src": "assets/the-star.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Flame",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Flame",
+				"img": {
+					"src": "assets/the-flame.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "Bernard",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/Bernard",
+				"img": {
+					"src": "assets/bernard.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "Rider",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/Rider",
+				"img": {
+					"src": "assets/rider.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "The Voice",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/The_Voice",
+				"img": {
+					"src": "assets/the-voice.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		},
+		{
+			"name": "Onnamusha",
+			"props": {
+				"url": "https://furigame.fandom.com/wiki/Onnamusha",
+				"img": {
+					"src": "assets/onnamusha.png",
+					"width": 256,
+					"height": 144
+				}
+			}
+		}
+	]
+}
