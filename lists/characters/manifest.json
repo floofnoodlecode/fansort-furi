@@ -1,6 +1,8 @@
 {
 	"title": "Furi - Characters",
-	"logo": {
-		"src": "logo.png"
+	"props": {
+		"logo": {
+			"src": "logo.png"
+		}
 	}
 }
